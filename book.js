@@ -14,7 +14,7 @@ module.exports={
     "links" : {
         "sidebar" : {
             "Home" : "#",
-            
+
         }
     },
         // Plugins list, can contain "-name" for removing default plugins
@@ -81,7 +81,7 @@ module.exports={
                 ]
             },
             "editlink": {
-                "base": "https://github.com/alibroDeveloper",
+                "base": "https://github.com/alibroDeveloper/PersonalWiki.git",
                 "label": "Edit This Page",
                 "multilingual": false
               }
